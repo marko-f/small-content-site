@@ -1,0 +1,1 @@
+Create an empty database. Name of database should be ci_site, or change it in database config.
